@@ -1,0 +1,21 @@
+name,tlmPerSec,charge_time,mining_multiplier
+Active Volcano,0.63,5,2.5
+Methane Swampland,0.82,3.5,2.3
+Mountains,0.92,3,2.2
+Dormant Volcano,1.05,2.5,2.1
+Small Island,0.89,2.1,1.5
+Rocky Desert,1,2,1.6
+Rocky Coastline,1.13,2,1.8
+Mushroom Forest,0.88,2,1.4
+Icy Mountains,1.19,2,1.9
+Icy Desert,1.25,1.7,1.7
+Sandy Coastline,1.08,1.5,1.3
+Inland River,1.17,1.5,1.4
+Geothermal Springs,1.33,1.5,1.6
+Dunes,1.08,1.5,1.3
+Tree Forest,1.15,1.3,1.2
+Sandy Desert,1.04,1.2,1
+Rocky Crater,1.04,1.2,1
+Grass Coastline,1.14,1.1,1
+Grassland,1.13,1,0.9
+Plains,1.07,0.7,0.6
